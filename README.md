@@ -1,4 +1,4 @@
-### App Description
+## App Description
 
 This app allows you to check your speed with your phone by using GPS permission. It also lets you share your speed. 
 
